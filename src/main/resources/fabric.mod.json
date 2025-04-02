@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "elytra-recipe",
+	"version": "${version}",
+	"name": "Elytra Recipe",
+	"description": "A Simple Elytra Recipe mod, that makes the Elytra craftable.",
+	"authors": [
+		"JohnnyDeveloperAHK"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/elytra-recipe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.modid.ElytraRecipe"
+		],
+		"client": [
+			"name.modid.ElytraRecipeClient"
+		],
+		"fabric-datagen": [
+			"name.modid.ElytraRecipeDataGenerator"
+		]
+	},
+	"mixins": [
+		"elytra-recipe.mixins.json",
+		{
+			"config": "elytra-recipe.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SsS",
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": { "item": "minecraft:phantom_membrane" },
+    "S": { "item": "minecraft:string" },
+    "s": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
+}
