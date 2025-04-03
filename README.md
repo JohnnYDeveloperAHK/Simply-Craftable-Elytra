@@ -34,7 +34,7 @@ This project is licensed under the **GNU General Public License v2 (GPLv2)**. Yo
 
 [Read the full GPLv2 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
 
-## 🌍 Links
+## Links
 - **Download the mod:** [Modrinth Page](https://modrinth.com/mod/simply-craftable-elytra/)
 - **Fabric API:** [Fabric API](https://modrinth.com/mod/fabric-api/)
 - **Fabric Loader:** [Fabric Loader](https://fabricmc.net/)
