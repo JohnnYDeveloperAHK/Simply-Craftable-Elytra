@@ -2,7 +2,7 @@
 
 A simple Fabric mod that **adds a crafting recipe for the Elytra**, allowing players to craft it using **Phantom Membranes, String, and a Stick** instead of searching for End Cities.
 
-## 🔧 How to Compile the Source Code
+## How to Compile the Source Code
 
 ### **1. Install Requirements**
 - Java Development Kit (**JDK 17+**) → [Download](https://adoptium.net/)
@@ -29,7 +29,7 @@ The compiled `.jar` file will be located in:
 build/libs/
 ```
 
-## 📜 License
+## License
 This project is licensed under the **GNU General Public License v2 (GPLv2)**. You are free to modify and distribute the source code as long as you keep it under the same license.
 
 [Read the full GPLv2 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
