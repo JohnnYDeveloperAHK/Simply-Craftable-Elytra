@@ -1,4 +1,5 @@
 # Elytra Crafting Mod (Fabric 1.20.1)
+![Elytra-Background-Github](https://github.com/user-attachments/assets/5103bfb5-e2cd-4899-9e70-03c08bad4a12)
 
 A simple Fabric mod that **adds a crafting recipe for the Elytra**, allowing players to craft it using **Phantom Membranes, String, and a Stick** instead of searching for End Cities.
 
